@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome,👋
+
+## "I am an artist and e-commerce entrepreneur passionate about code. I studied Full Stack Development at Code Institute and love creating interfaces where color, shape, and logic connect."
+
+
 
 <!--
 **Camdah77/Camdah77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
